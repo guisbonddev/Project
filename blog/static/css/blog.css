@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+#header{
+    font-family: 'Montserrat', sans-serif;
+    color: #b32930;
+}
+
+.blog{
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration-color: black;
+}
